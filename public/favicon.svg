@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- Background -->
+  <rect width="32" height="32" rx="4" fill="#1a1a2e"/>
+  
+  <!-- Film strip -->
+  <rect x="4" y="6" width="24" height="20" rx="2" fill="#0f3460"/>
+  
+  <!-- Film holes -->
+  <circle cx="7" cy="9" r="1" fill="#e94560"/>
+  <circle cx="7" cy="15" r="1" fill="#e94560"/>
+  <circle cx="7" cy="21" r="1" fill="#e94560"/>
+  <circle cx="25" cy="9" r="1" fill="#e94560"/>
+  <circle cx="25" cy="15" r="1" fill="#e94560"/>
+  <circle cx="25" cy="21" r="1" fill="#e94560"/>
+  
+  <!-- Play button triangle -->
+  <path d="M14 11l8 5l-8 5z" fill="#e94560"/>
+</svg>
